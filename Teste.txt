@@ -1,0 +1,22 @@
+Linguagem: Java
+
+Banco de dados: Postgree
+host: localhost
+porta: 5432
+nome do banco: mportal
+
+Desafio
+
+1 - Com o CSV proposto ordene-o pelo nome.
+
+2 - Conte quantos homens e mulheres existem no CSV, e exiba em tela.
+
+3 - Observe que a data de nascimento está errada, ajuste para a data certa com o conforme o campo idade.
+
+4 - Agora com todos os dados corretos, grave um novo csv.
+
+5 - Agora leia o novo CSV e grave no banco as informações no banco. 
+
+6 - Como um último desafio calcule a media de idade de homens e mulheres.
+
+obs: envie junto ao projeto o script para criação do banco de dados
